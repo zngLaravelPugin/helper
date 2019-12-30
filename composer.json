@@ -1,6 +1,7 @@
 {
     "name": "zngue/helper",
     "description": "zngue permission library 公共配置文件",
+    "type": "library",
     "authors": [
         {
             "name": "zngue",
