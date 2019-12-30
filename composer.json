@@ -1,7 +1,8 @@
 {
     "name": "zngue/helper",
-    "description": "zngue permission library 公共配置文件",
+    "description": "zngue  library 公共配置文件",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "zngue",
