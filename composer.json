@@ -1,0 +1,20 @@
+{
+    "name": "zngue/helper",
+    "description": "zngue permission library 公共配置文件",
+    "authors": [
+        {
+            "name": "zngue",
+            "email": "875407262@qq.com"
+        }
+    ],
+    "require": {
+        "tymon/jwt-auth": "1.0.0-rc.5",
+        "laravel/framework": "^6.2",
+        "laravel/tinker": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zngue\\Helper\\": "src"
+        }
+    }
+}
